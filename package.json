@@ -10,6 +10,8 @@
   "author": "Noel Portugal",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.1"
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "ws": "^8.2.1"
   }
 }
